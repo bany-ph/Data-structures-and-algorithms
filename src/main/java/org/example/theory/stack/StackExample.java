@@ -2,7 +2,7 @@ package org.example.theory.stack;
 
 import java.util.Stack;
 
-public class Main {
+public class StackExample {
     public static void main(String[] args) {
         // Create a Stack that holds Strings (generic type: String)
         Stack<String> stack = new Stack<String>();
@@ -15,7 +15,7 @@ public class Main {
 
         // Pop (remove) the top element from the stack
         // Since "mango" was the last pushed, it's the first removed
-        stack.pop();
+        //stack.pop();
 
 
         // The peek() method returns the top element of the stack without removing it.

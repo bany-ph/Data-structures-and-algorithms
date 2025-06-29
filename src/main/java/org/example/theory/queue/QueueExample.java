@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class example {
+public class QueueExample {
     static Queue<Integer> queue;
      static void linkedListQueue(){
          queue = new LinkedList<Integer>();
