@@ -3,7 +3,7 @@
 ## Useful links
 ### websites:
  - [Guide to Java HashMap](https://www.baeldung.com/java-hashmap)
- - [iterate HashMap]([https://www.baeldung.com/java-iterate-map)
+ - [iterate HashMap](https://www.baeldung.com/java-iterate-map)
  - [A guide to EnumMap](https://www.baeldung.com/java-enum-map)
  - [Comparing two HashMaps](https://www.baeldung.com/java-compare-hashmaps)
  - [¿Qué Es Un HashMap en Java?](https://nubecolectiva.com/blog/que-es-un-hashmap-en-java/)
