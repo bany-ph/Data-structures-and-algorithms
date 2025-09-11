@@ -12,4 +12,4 @@ Algorithms are step-by-step procedures or formulas for solving problems. They ar
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/) - A comprehensive resource for learning various data structures and algorithms with examples.
 2. [Visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 3. [CodeAcademy - Java: Algorithms](https://www.codecademy.com/enrolled/courses/java-algorithms) - Learn the basics of recursion and how to implement and analyze important algorithms in Java.
-4. [Data Structure Visualizations] (https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - The best way to understand complex data structures is to see them in action.  
+4. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - The best way to understand complex data structures is to see them in action.  
